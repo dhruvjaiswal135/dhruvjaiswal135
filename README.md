@@ -32,12 +32,15 @@ Here are some ideas to get you started:
 **Backend & DB:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&borderRadius=8) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&borderRadius=8) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&borderRadius=8) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&borderRadius=8)   **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&borderRadius=8) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&borderRadius=8) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&borderRadius=8) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&borderRadius=8)  
 
 ### ⚡ GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide_border=true&hide=stars&show_icons=true&theme=shadow_red)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&hide_border=true&layout=compact&theme=shadow_green)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&hide_border=true&theme=shadow_blue)
+[![Dhruv GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-dark-mode-only)
+[![Dhruv's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-light-mode-only)
+[![Dhruv Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_title=true&hide_border=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-dark-mode-only)
+[![Dhruv Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-light-mode-only)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&hide_border=true&theme=vision-friendly-dark)
 <!--[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvjaiswal135&theme=high-contrast)](https://github.com/dhruvjaiswal135/) -->
 
 ## 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://linkedin.com/in/dhruvjaiswal135) [![GitHub](https://img.shields.io/badge/GitHub-red?style=flat&logo=github&borderRadius=8)](https://github.com/dhruvjaiswal135) [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=web&borderRadius=8)](https://dhruvjaiswal135.com) [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:dhruvjaiswal135@gmail.com)  
 
 🔥 **Always exploring new technologies & improving skills!** 🚀  
+
