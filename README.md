@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 **Backend & DB:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&borderRadius=8) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&borderRadius=8) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&borderRadius=8) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&borderRadius=8)   **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&borderRadius=8) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&borderRadius=8) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&borderRadius=8) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&borderRadius=8)  
 
 ### ⚡ GitHub Stats  
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide=stars&show_icons=true&theme=codeSTACKr)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&theme=shadow_green)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&theme=shadow_blue)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide_border=true&hide=stars&show_icons=true&theme=shadow_red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&hide_border=true&layout=compact&theme=shadow_green)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&hide_border=true&theme=shadow_blue)
 <!--[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvjaiswal135&theme=high-contrast)](https://github.com/dhruvjaiswal135/) -->
 
 ## 🌍 Let's Connect
