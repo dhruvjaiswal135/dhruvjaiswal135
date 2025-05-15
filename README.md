@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Dhruv's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-light-mode-only)
 [![Dhruv Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_title=true&hide_border=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-dark-mode-only)
 [![Dhruv Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-light-mode-only)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&hide_border=true&theme=vision-friendly-dark)
+<!--![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&hide_border=true&theme=vision-friendly-dark) -->
 <!--[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvjaiswal135&theme=high-contrast)](https://github.com/dhruvjaiswal135/) -->
 
 ## 🌍 Let's Connect
