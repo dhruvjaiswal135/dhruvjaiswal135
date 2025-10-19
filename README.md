@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 ## 🌍 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://linkedin.com/in/dhruvjaiswal135) [![GitHub](https://img.shields.io/badge/GitHub-red?style=flat&logo=github&borderRadius=8)](https://github.com/dhruvjaiswal135) [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=web&borderRadius=8)](https://dhruvjaiswal135.com) [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:dhruvjaiswal135@gmail.com)  
 
-🔥 **Always exploring new technologies & improving skills!** 
+🔥 **Always exploring new technologies & improving skills!* 
 
