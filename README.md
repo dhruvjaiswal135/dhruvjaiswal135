@@ -1,46 +1,127 @@
+<!-- Profile README | Dhruv Narayan Jaiswal -->
 
-<!--
-**dhruvjaiswal135/dhruvjaiswal135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HERO SECTION -->
+<h1 align="center"> Dhruv Narayan Jaiswal </h1>
+<h3 align="center">Full-Stack Developer • AI-Powered Product Builder • Hackathon Winner</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hey, I'm Dhruv! 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FD853A&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Creative+UI%2FUX+Designer;AI+ML+Engineer;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=F7931A&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;AI-Powered+Product+Builder+%7C+System+Design+Enthusiast;Turning+Ideas+Into+Scalable+Products;Making+Tech+Simple%2C+Smart+%26+Human-Centered" />
 </p>
 
-## 🚀 About Me  
-👋 Hey there! I'm Dhruv, a passionate Full-Stack Developer & UI/UX Designer who loves crafting modern, scalable, and high-performance applications.
+---
 
-🔹 2+ years of hands-on experience in building interactive UIs, full-stack applications, and scalable backend solutions
-💡 Always exploring cutting-edge tech like AI & ML integration in full-stack projects
-⚡ Strong believer in design-driven development with a focus on user experience & performance
-🌱 Currently leveling up in cloud computing, AI-driven development.
+## 🚀 About Me
 
-## 🛠 Tech Stack  
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&borderRadius=8) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&borderRadius=8) ![C](https://img.shields.io/badge/-red?style=flat&logo=c&logoColor=white&borderRadius=6) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&borderRadius=8) ![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=flat&logo=dart&logoColor=00d2b8&borderRadius=8) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&borderRadius=8)   **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&borderRadius=8) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&borderRadius=8) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&borderRadius=8)  
-**Backend & DB:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&borderRadius=8) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&borderRadius=8) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&borderRadius=8) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&borderRadius=8)   **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&borderRadius=8) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&borderRadius=8) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&borderRadius=8) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&borderRadius=8)  
+I'm **Dhruv**, a Full-Stack Developer & AI-Driven Product Builder who loves building **scalable systems**, **human-centered products**, and **intelligent automation**.
 
+- 🧠 Passion: Building AI-powered products that solve real human problems  
+- 🌐 Experience across **Backend Engineering, System Design, and UI/UX**  
+- 🏆 Multiple hackathon wins + national finalist at **Adobe India Hackathon (Top 0.01%)**  
+- 🌱 Currently exploring: **Cloud-native systems, scalable microservices & generative AI**  
+
+---
+
+## 🧩 What I Bring to the Table
+
+✅ Strong backend engineering with **Node.js + Microservices + System Design**  
+⚙️ Scalable product thinking: APIs, architecture, DB design, caching  
+🤖 AI-powered development & automation (Gemini, Azure AI, NLP integration)  
+🎨 Design-driven dev — products users love to use  
+🚀 Hackathon-style execution speed + Innovation mindset  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=fff)
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+
+### **Backend & Architecture**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=for-the-badge)
+
+### **Databases & DevOps**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+
+---
+
+## 🏆 Achievement Wall
+
+| 🏅 Achievement | 🧠 Impact |
+|----------------|------------|
+| **National Finalist, Adobe India Hackathon 2025 (Top 0.01%)** | Selected among 2.6L+ participants |
+| **1st Runner-Up – UI/UX Hackathon, IIIT Bangalore 2024** | Recognized for UX innovation |
+| **Winner – App Development Hackathon, IIT Patna 2023** | 1st place for full-stack app |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Surprise Booking Platform | *Live Booking System*
+**Tech:** MERN, Microservices, JWT, Node-Cron  
+✔️ 99.9% reliable automation for 1k+ live bookings  
+✔️ Eliminated double-booking & built atomic transactions  
+🔗 Repo: https://github.com/dhruvjaiswal135/surprise-booking-system  
+
+---
+
+### 🔹 IntelliDoc Studio | *AI Document Intelligence*
+**Tech:** FastAPI, React, Gemini AI, Docker  
+📌 Converts static PDFs into intelligent searchable knowledge bases  
+⚡ 85% faster research | 90% automated data extraction  
+🔗 Demo: https://intellidoc-studio.onrender.com/  
+
+---
+
+## 🤖 AI & Innovation
+
+- Built **WhatsApp AI chatbot** (Gemini API) reducing manual workload by **20%**  
+- Designed semantic search engine with **<100ms latency**  
+- AI-powered doc summarizer, podcast generator & multimedia recommender  
+- Azure Cognitive Services TTS + NLP + vector search integrations  
+
+---
+<!--
+## 🌱 Currently Building
+
+- 🚀 Scalable AI products using **microservices + cloud + vector search**  
+- 🤝 Open to collaborations in **AI, system design, full-stack & devtools**  
+
+--->
 ### ⚡ GitHub Stats  
 [![Dhruv GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-dark-mode-only)
 [![Dhruv's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-light-mode-only)
 [![Dhruv Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_title=true&hide_border=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-dark-mode-only)
 [![Dhruv Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/dhruvjaiswal135/github-readme-stats#gh-light-mode-only)
-<!--![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaiswal135&hide_border=true&theme=vision-friendly-dark) -->
-<!--[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvjaiswal135&theme=high-contrast)](https://github.com/dhruvjaiswal135/) -->
 
-## 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://linkedin.com/in/dhruvjaiswal135) [![GitHub](https://img.shields.io/badge/GitHub-red?style=flat&logo=github&borderRadius=8)](https://github.com/dhruvjaiswal135) [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=web&borderRadius=8)](https://dhruvjaiswal135.com) [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:dhruvjaiswal135@gmail.com)  
+---
 
-🔥 **Always exploring new technologies & improving skills!* 
+## 🌍 Connect With Me
 
+<p align="center">
+  <a href="https://dhruvjaiswal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/dhruvjaiswal135/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+  <a href="mailto:connect.dhruvjaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+  <a href="https://github.com/dhruvjaiswal135"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff" /></a>
+</p>
+
+---
+
+<div align="center">
+  
+💡 *“Building products that are fast, scalable & loved by users.”*  
+
+</div>
