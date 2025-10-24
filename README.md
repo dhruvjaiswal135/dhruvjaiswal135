@@ -24,11 +24,11 @@ I'm **Dhruv**, a Full-Stack Developer & AI-Driven Product Builder who loves buil
 
 ## 🧩 What I Bring to the Table
 
-✅ Strong backend engineering with **Node.js + Microservices + System Design**  
-⚙️ Scalable product thinking: APIs, architecture, DB design, caching  
-🤖 AI-powered development & automation (Gemini, Azure AI, NLP integration)  
-🎨 Design-driven dev — products users love to use  
-🚀 Hackathon-style execution speed + Innovation mindset  
+- ✅ Strong backend engineering with **Node.js + Microservices + System Design**  
+- ⚙️ Scalable product thinking: APIs, architecture, DB design, caching  
+- 🤖 AI-powered development & automation (Gemini, Azure AI, NLP integration)  
+- 🎨 Design-driven dev — products users love to use  
+- 🚀 Hackathon-style execution speed + Innovation mindset  
 
 ---
 
@@ -72,18 +72,18 @@ I'm **Dhruv**, a Full-Stack Developer & AI-Driven Product Builder who loves buil
 ## 🚀 Featured Projects
 
 ### 🔹 Surprise Booking Platform | *Live Booking System*
-**Tech:** MERN, Microservices, JWT, Node-Cron  
-✔️ 99.9% reliable automation for 1k+ live bookings  
-✔️ Eliminated double-booking & built atomic transactions  
-🔗 Repo: https://github.com/dhruvjaiswal135/surprise-booking-system  
+- **Tech:** MERN, Microservices, JWT, Node-Cron  
+- ✔️ 99.9% reliable automation for 1k+ live bookings  
+- ✔️ Eliminated double-booking & built atomic transactions  
+- 🔗 Repo: https://github.com/dhruvjaiswal135/surprise-booking-system  
 
 ---
 
 ### 🔹 IntelliDoc Studio | *AI Document Intelligence*
-**Tech:** FastAPI, React, Gemini AI, Docker  
-📌 Converts static PDFs into intelligent searchable knowledge bases  
-⚡ 85% faster research | 90% automated data extraction  
-🔗 Demo: https://intellidoc-studio.onrender.com/  
+- **Tech:** FastAPI, React, Gemini AI, Docker  
+- 📌 Converts static PDFs into intelligent searchable knowledge bases  
+- ⚡ 85% faster research | 90% automated data extraction  
+- 🔗 Demo: https://intellidoc-studio.onrender.com/  
 
 ---
 
