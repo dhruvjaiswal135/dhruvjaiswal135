@@ -68,37 +68,59 @@ I'm **Dhruv**, a full-stack & distributed-systems-focused engineer who loves cra
 </table>
 
 ---
-
 ## 🏆 Achievement Wall
+
+<div align="center">
+
+  
 | 🏅 Milestone | 📌 Summary |
 |-------------|-----------|
 | **Adobe India Hackathon – Top 0.01%** | Among 260K+ participants |
 | **UI/UX Hackathon – IIIT Bangalore (Runner-up)** | Recognition for UX innovation |
 | **App Dev Champion – IIT Patna** | 1st place for full-stack execution |
 
----
-
-## 🚀 Featured Projects 
-
-### 🔹 **Surprise Booking Platform**
-**Tech:** MERN • Microservices • Redis • JWT  
-⚡ 99.9% consistent booking flows • atomic transactions  
-🔗 Repo: https://github.com/dhruvjaiswal135/surprise-booking-system  
+</div>
 
 ---
 
-### 🔹 **IntelliDoc Studio**
-**Tech:** FastAPI • React • Gemini AI • Docker  
-📄 Automated 90% document intelligence • <100ms semantic search  
-🔗 Demo: https://intellidoc-studio.onrender.com/  
+## 🚀 Featured Projects  
 
----
+<div align="center">
 
-## 🤖 AI x Engineering Highlights
-- Built WhatsApp AI Automation (Gemini) → reduced manual load  
-- Designed semantic search engine → **<100ms latency**  
-- Automated doc → audio/podcast → video workflows  
-- Azure Cognitive Services + NLP + Vector Search  
+<table width="100%">
+<tr>
+
+<!-- Project 1 -->
+<td width="50%" valign="top" align="center">
+
+<h3>🔹 Surprise Booking Platform</h3>
+
+<p><b>Tech:</b> MERN • Microservices • Redis • JWT<br/>
+⚡ 99.9% consistent booking flows<br/>
+⚡ Atomic transaction-safe architecture<br/>
+🔗 <a href="https://github.com/dhruvjaiswal135/surprise-booking-system">Repo Link</a>
+</p>
+
+</td>
+
+<!-- Project 2 -->
+<td width="50%" valign="top" align="center">
+
+<h3>🔹 IntelliDoc Studio</h3>
+
+<p><b>Tech:</b> FastAPI • React • Gemini AI • Docker<br/>
+📄 90% automated document intelligence<br/>
+⚡ <100ms semantic search engine<br/>
+🔗 <a href="https://intellidoc-studio.onrender.com/">Live Demo</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 ---
 
