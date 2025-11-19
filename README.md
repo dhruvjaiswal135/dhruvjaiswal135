@@ -14,10 +14,11 @@
 ## 🌟 About Me  
 I'm **Dhruv**, a full-stack & distributed-systems-focused engineer who loves crafting **scalable backends**, **AI-driven experiences**, and **clean, product-first apps**.
 
-- 🔥 Backend-heavy: FastAPI, Node.js, Microservices, Redis, Kafka  
-- 🧠 AI Integrations: Gemini, Azure AI, NLP, Vector Search  
-- 🚀 Hackathon Finalist (Adobe – Top 0.01%)  
-- 💡 Love designing systems that are fast, fault-tolerant & delightful  
+- Backend Engineering: FastAPI, Node.js, Microservices, Redis, Kafka
+- Frontend Engineering: React.js, Tailwind, reusable UI systems, SEO optimized rendering
+- AI Integrations: Gemini, Azure AI, NLP, Vector Search  
+- Hackathon Finalist (Adobe – Top 0.01%)  
+- Love designing systems that are fast, fault-tolerant & delightful  
 
 ---
 
