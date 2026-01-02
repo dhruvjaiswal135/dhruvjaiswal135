@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="880" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="680" />
 </p>
 
 ---
@@ -34,15 +34,7 @@ I’m **Dhruv**, a software engineer focused on **scalable backend systems**, **
 
 ---
 
-## 🏆 Highlights
 
-| Achievement | Impact |
-|------------|--------|
-| **Adobe India Hackathon – Top 0.01%** | National-level engineering recognition |
-| **UI/UX Hackathon – IIIT Bangalore (Runner-up)** | Product & UX excellence |
-| **App Dev Champion – IIT Patna** | Best full-stack execution |
-
----
 
 ## 🚀 Featured Work
 
