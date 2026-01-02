@@ -1,139 +1,72 @@
 <!-- ======================================================= -->
-<!-- 💫 AESTHETIC GITHUB README | DHURV NARAYAN JAISWAL      -->
+<!-- 🚀 GITHUB README | DHURV NARAYAN JAISWAL                 -->
 <!-- ======================================================= -->
 
-<!-- HERO -->
-<h1 align="center"> Dhruv Narayan Jaiswal </h1>
-<h3 align="center">Software Engineer • Distributed Systems • Full-Stack • AI Builder</h3>
+<h1 align="center">Dhruv Narayan Jaiswal</h1>
+<h3 align="center">Software Engineer · Distributed Systems · Full-Stack </h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=6E57E0&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Full-Stack+Developer+(MERN+%2B+FastAPI);AI-Powered+Automation+%7C+System+Design;Turning+Ideas+Into+Production-Ready+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=6E57E0&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Full-Stack+(MERN+%2B+FastAPI);AI-Powered+Automation+%7C+System+Design;Production-Ready+Engineering+Mindset" />
 </p>
 
----
-
-## 🌟 About Me  
-I'm **Dhruv**, a full-stack & distributed-systems-focused engineer who loves crafting **scalable backends**, **AI-driven experiences**, and **clean, product-first apps**.
-
-- Backend Engineering: FastAPI, Node.js, Microservices, Redis, Kafka
-- Frontend Engineering: React.js, Tailwind, reusable UI systems, SEO optimized rendering
-- AI Integrations: Gemini, Azure AI, NLP, Vector Search  
-- Hackathon Finalist (Adobe – Top 0.01%)  
-- Love designing systems that are fast, fault-tolerant & delightful  
-
----
-
-## 🧩 Tech Stack 
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 📝 Languages  
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,postgres" />
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,kafka" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="33%">
-
-### 🗄 Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-</td>
-<td align="center" width="33%">
-
-### ☁ Cloud & DevOps  
-<img src="https://skillicons.dev/icons?i=aws,docker,github,git" />
-
-</td>
-<td align="center" width="33%">
-
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode" />
-
-</td>
-</tr>
-</table>
-
----
-## 🏆 Achievement Wall
-
-<div align="center">
-
-  
-| 🏅 Milestone | 📌 Summary |
-|-------------|-----------|
-| **Adobe India Hackathon – Top 0.01%** | Among 260K+ participants |
-| **UI/UX Hackathon – IIIT Bangalore (Runner-up)** | Recognition for UX innovation |
-| **App Dev Champion – IIT Patna** | 1st place for full-stack execution |
-
-</div>
-
----
-
-## 🚀 Featured Projects  
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<!-- Project 1 -->
-<td width="50%" valign="top" align="center">
-
-<h3>🔹 Surprise Booking Platform</h3>
-
-<p><b>Tech:</b> MERN • Microservices • Redis • JWT<br/>
-⚡ 99.9% consistent booking flows<br/>
-⚡ Atomic transaction-safe architecture<br/>
-🔗 <a href="https://github.com/dhruvjaiswal135/surprise-booking-system">Repo Link</a>
-</p>
-
-</td>
-
-<!-- Project 2 -->
-<td width="50%" valign="top" align="center">
-
-<h3>🔹 IntelliDoc Studio</h3>
-
-<p><b>Tech:</b> FastAPI • React • Gemini AI • Docker<br/>
-📄 90% automated document intelligence<br/>
-⚡ <100ms semantic search engine<br/>
-🔗 <a href="https://intellidoc-studio.onrender.com/">Live Demo</a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvjaiswal135&show_icons=true&hide_border=true&theme=midnight-purple" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaiswal135&layout=compact&hide_border=true&theme=midnight-purple" height="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="880" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🧠 About Me
+
+I’m **Dhruv**, a software engineer focused on **scalable backend systems**, **clean full-stack architecture**, and **AI-powered products**.
+
+- Strong in **system design, microservices, and async workflows**
+- Build **fault-tolerant, production-ready APIs**
+- Integrate **LLMs, vector search, and automation pipelines**
+- **Adobe India Hackathon – Top 0.01% (260K+ participants)**
+
+---
+
+## ⚙️ Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,tailwind,nodejs,express,fastapi,redis,kafka,mongodb,postgres,docker,aws,git" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+| Achievement | Impact |
+|------------|--------|
+| **Adobe India Hackathon – Top 0.01%** | National-level engineering recognition |
+| **UI/UX Hackathon – IIIT Bangalore (Runner-up)** | Product & UX excellence |
+| **App Dev Champion – IIT Patna** | Best full-stack execution |
+
+---
+
+## 🚀 Featured Work
+
+### 🔹 Surprise Booking Platform  
+**Tech:** MERN · Microservices · Redis · JWT  
+- 99.9% consistent booking flow  
+- Atomic, transaction-safe architecture  
+- Designed for scale & concurrency  
+🔗 https://github.com/dhruvjaiswal135/surprise-booking-system
+
+---
+
+### 🔹 IntelliDoc Studio  
+**Tech:** FastAPI · React · Gemini AI · Docker  
+- 90% automated document intelligence  
+- <100ms semantic vector search  
+- Production-deployed AI pipeline  
+🔗 https://intellidoc-studio.onrender.com/
+
+---
+
+
+## 🌐 Connect
+
 <p align="center">
   <a href="https://dhruvjaiswal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6E57E0?style=for-the-badge&logo=googlechrome&logoColor=fff"/></a>
   <a href="https://www.linkedin.com/in/dhruvjaiswal135/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
@@ -141,8 +74,8 @@ I'm **Dhruv**, a full-stack & distributed-systems-focused engineer who loves cra
   <a href="https://github.com/dhruvjaiswal135"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff"/></a>
 </p>
 
-<div align="center">
+---
 
- *Building products that are fast, scalable & loved by users.*
-
-</div>
+<p align="center">
+  <i>Engineering products that scale — technically and in real life.</i>
+</p>
