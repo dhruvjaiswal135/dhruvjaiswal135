@@ -29,32 +29,9 @@ I’m **Dhruv**, a software engineer focused on **scalable backend systems**, **
 ## ⚙️ Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,tailwind,nodejs,express,fastapi,redis,kafka,mongodb,postgres,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,tailwind,nodejs,express,fastapi,redis,kafka,mongodb,postgres,docker,aws" />
 </p>
 
----
-
-
-
-## 🚀 Featured Work
-
-### 🔹 Surprise Booking Platform  
-**Tech:** MERN · Microservices · Redis · JWT  
-- 99.9% consistent booking flow  
-- Atomic, transaction-safe architecture  
-- Designed for scale & concurrency  
-🔗 https://github.com/dhruvjaiswal135/surprise-booking-system
-
----
-
-### 🔹 IntelliDoc Studio  
-**Tech:** FastAPI · React · Gemini AI · Docker  
-- 90% automated document intelligence  
-- <100ms semantic vector search  
-- Production-deployed AI pipeline  
-🔗 https://intellidoc-studio.onrender.com/
-
----
 
 
 ## 🌐 Connect
@@ -66,7 +43,7 @@ I’m **Dhruv**, a software engineer focused on **scalable backend systems**, **
   <a href="https://github.com/dhruvjaiswal135"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=fff"/></a>
 </p>
 
----
+
 
 <p align="center">
   <i>Engineering products that scale — technically and in real life.</i>
