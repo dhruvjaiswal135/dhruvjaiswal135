@@ -46,5 +46,5 @@ I’m **Dhruv**, a software engineer focused on **scalable backend systems**, **
 
 
 <p align="center">
-  <i>Engineering products that scale — technically and in real life </i>
+  <i>Engineering products that scale — technically and in real life. </i>
 </p>
